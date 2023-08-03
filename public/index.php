@@ -9,8 +9,6 @@ $list = array(
 	['Jessica', 30, 'Female']
 );
 
-
-
 $csvFileWriter = new \App\FileWriter\CsvFileWriter;
 $jsonFileWriter = new \App\FileWriter\JsonFileWriter;
 
