@@ -1,0 +1,16 @@
+{
+    "name": "marek/php_design_patterns",
+    "autoload": {
+        "psr-4": {
+            "Marek\\PhpDesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marek",
+            "email": "marek.sloser@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
