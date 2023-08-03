@@ -2,7 +2,7 @@
     "name": "marek/php_design_patterns",
     "autoload": {
         "psr-4": {
-            "Marek\\PhpDesignPatterns\\": "src/"
+            "App\\": "src"
         }
     },
     "authors": [
